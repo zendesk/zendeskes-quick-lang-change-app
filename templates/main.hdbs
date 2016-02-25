@@ -1,0 +1,8 @@
+<select id="lang_choser">
+
+</select>
+<button id="change_it">Change</button>
+<div id="loading" class="spinner dotted"></div>
+<div id="fav_langs">
+
+</div>

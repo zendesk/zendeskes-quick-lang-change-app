@@ -1,0 +1,7 @@
+{
+  "app": {
+    "parameters":{
+      "fav":{"label":"Favorites","helpText":"Coma separated language codes that you want to setup as favorites. 8 MAX"}
+      }
+  }
+}
