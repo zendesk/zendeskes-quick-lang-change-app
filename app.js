@@ -31,7 +31,7 @@
             this.populateDD();
         },
         validSettings: function(locales){
-            return locales.length >= 2
+            return locales.length >= 2;
         },
         hideStuff: function(){
             this.button.hide();
